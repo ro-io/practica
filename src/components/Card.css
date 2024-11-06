@@ -10,7 +10,7 @@
 }
 button{
     background-color: yellow;
-    color: white;
+    color: black;
     display: flex;
     border-radius: 5px;
 }
