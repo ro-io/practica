@@ -11,4 +11,6 @@
 button{
     background-color: blue;
     color: white;
+    display: flex;
+    border-radius: 5px;
 }
