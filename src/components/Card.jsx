@@ -10,6 +10,7 @@ const Card = (props) => {
         <Encabezado atributo={gColor}/>
         <p className='medio'>Description of what is done here</p>
         <Fecha/>
+        <button>Ingresar</button>
     </div>
   )
 }
