@@ -1,0 +1,37 @@
+.rojo{
+    background-color: var(--rojo);
+}
+
+.morado{
+    background-color: var(--morado);
+}
+
+.gris{
+    background-color: var(--gris);
+}
+
+.encabezado{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 10px;
+    padding-block: 18px;
+    font-size: 14px;
+}
+
+.numero{
+    display: flex;
+    align-items: center;
+}
+
+.uno{
+    border: 1px solid white;
+    padding: 3px 8px;
+    border-radius: 14px;
+    margin-right: 10px;
+}
+
+.saas{
+    padding-right: 12px;
+}

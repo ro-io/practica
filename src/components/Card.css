@@ -1,0 +1,10 @@
+.medio{
+    padding: 15px;
+    font-size: 14px;
+}
+.carta{
+    border-radius: 11px;
+    overflow: hidden;
+    background-color: white;
+    margin-bottom: 30px;
+}

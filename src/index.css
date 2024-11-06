@@ -1,0 +1,16 @@
+:root {
+  font-family: 'Lato';
+  --rojo: rgba(235, 87, 87, 1);
+  --morado: rgba(155, 81, 224, 1);
+  --gris: rgba(189, 189, 189, 1);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+   background-color: rgb(236, 234, 234);
+}
