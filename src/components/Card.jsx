@@ -3,11 +3,10 @@ import Encabezado from './Encabezado'
 import Fecha from './Fecha'
 import "./Card.css"
 
-const Card = (props) => {
-  let gColor = props.atributo;
+const Card = ({atributo}) => {
   return (
     <div className='carta'>
-        <Encabezado atributo={gColor}/>
+        <Encabezado atributo={atributo}/>
         <p className='medio'>Description of what is done here</p>
         <Fecha/>
         <button>Ingresar</button>
